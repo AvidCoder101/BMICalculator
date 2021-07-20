@@ -61,7 +61,7 @@
 
 ![image of pr](https://user-images.githubusercontent.com/70807684/126149967-1c1f4c7e-432d-41d0-9ef6-0f75281743f4.png)
 
-#### And that's it!
+#### And that's it! You could also contribute to the [CodingContributorsLair BMICalculator](https://github.com/CodingContributorsLair/BMICalculator), so that you could even receive an invitation to the [CodingContributorsLair](https://github.com/CodingContributorsLair) orgainzation.
 
 ### If you like this repo, give it a 🌟
 
